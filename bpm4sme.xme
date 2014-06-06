@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE project SYSTEM "mga.dtd">
 
-<project guid="{FB4FF9C6-0B36-43C1-9F38-F5E4134727C0}" cdate="Thu May 22 19:52:30 2014" mdate="Thu May 22 19:52:30 2014" version="0.9" metaguid="{C84D2738-4519-44F2-B4C1-114F73567576}" metaversion="" metaname="MetaGME">
+<project guid="{56FA3EDA-E9C1-4E0B-B8C2-270A4637B718}" cdate="Thu May 22 19:52:30 2014" mdate="Thu May 22 19:52:30 2014" version="0.9" metaguid="{C84D2738-4519-44F2-B4C1-114F73567576}" metaversion="" metaname="MetaGME">
 	<name>BPM4SME</name>
 	<comment></comment>
 	<author>Lubomir Hruban</author>
@@ -1972,7 +1972,7 @@
 				</regnode>
 			</regnode>
 		</regnode>
-		<model id="id-0065-00000001" kind="ParadigmSheet" guid="{ed948fd8-1ff9-4443-a4bb-c64a8422ec81}" relid="0x1" childrelidcntr="0x14b">
+		<model id="id-0065-00000001" kind="ParadigmSheet" guid="{ed948fd8-1ff9-4443-a4bb-c64a8422ec81}" relid="0x1" childrelidcntr="0x14d">
 			<name>ParadigmSheet</name>
 			<atom id="id-0066-00000002" kind="Model" role="Model" guid="{15e83d07-8793-4d4d-a10e-aec9f8076c0a}" relid="0x2">
 				<name>Folder</name>
@@ -1993,7 +1993,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>567,168</value>
+							<value>441,231</value>
 						</regnode>
 						<regnode name="preferredSize" isopaque="yes">
 							<value>88,58</value>
@@ -2008,7 +2008,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>434,286</value>
+							<value>1739,930</value>
 						</regnode>
 						<regnode name="preferredSize" isopaque="yes">
 							<value>88,58</value>
@@ -2173,7 +2173,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>600,335</value>
+							<value>1772,778</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -2269,13 +2269,13 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>399,35</value>
+							<value>483,35</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>602,273</value>
+							<value>1442,707</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -2299,7 +2299,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>329,119</value>
+							<value>280,112</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -2311,7 +2311,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>264,247</value>
+							<value>1251,790</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -2425,7 +2425,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>469,171</value>
+							<value>1476,769</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -2494,7 +2494,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>259,392</value>
+							<value>329,637</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -2506,7 +2506,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>56,644</value>
+							<value>1589,1387</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -2626,7 +2626,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>42,413</value>
+							<value>7,637</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -2638,7 +2638,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>216,542</value>
+							<value>1598,1616</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -2740,7 +2740,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>168,392</value>
+							<value>112,637</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -2752,7 +2752,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>35,417</value>
+							<value>1418,1491</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -2854,7 +2854,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>385,406</value>
+							<value>434,497</value>
 						</regnode>
 						<regnode name="preferredSize" isopaque="yes">
 							<value>92,59</value>
@@ -2869,7 +2869,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>245,364</value>
+							<value>1773,1452</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -2977,7 +2977,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>210,294</value>
+							<value>196,497</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -2989,7 +2989,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>42,523</value>
+							<value>1582,1504</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -3133,13 +3133,13 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>224,483</value>
+							<value>252,721</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>203,504</value>
+							<value>1778,1855</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -3163,7 +3163,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>182,567</value>
+							<value>196,637</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -3175,7 +3175,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>140,434</value>
+							<value>1682,1743</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -3238,13 +3238,13 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>224,84</value>
+							<value>315,189</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>63,77</value>
+							<value>1141,861</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -3268,7 +3268,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>350,210</value>
+							<value>266,231</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -3280,7 +3280,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>147,21</value>
+							<value>1497,916</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -3337,10 +3337,16 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>721,616</value>
+							<value>798,630</value>
 						</regnode>
 						<regnode name="preferredSize" isopaque="yes">
 							<value>86,58</value>
+						</regnode>
+					</regnode>
+					<regnode name="Visualization" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1502,2091</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -3448,7 +3454,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>420,980</value>
+							<value>637,1302</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -3460,7 +3466,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>161,644</value>
+							<value>439,325</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -3562,7 +3568,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>448,1057</value>
+							<value>665,1386</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -3574,7 +3580,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>168,735</value>
+							<value>357,434</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -3598,7 +3604,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>378,1141</value>
+							<value>588,1470</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -3610,7 +3616,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>84,770</value>
+							<value>178,498</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -3712,7 +3718,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>476,1141</value>
+							<value>714,1470</value>
 						</regnode>
 						<regnode name="preferredSize" isopaque="yes">
 							<value>78,58</value>
@@ -3727,7 +3733,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>203,770</value>
+							<value>673,467</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -3829,13 +3835,13 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>231,742</value>
+							<value>357,1071</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>217,714</value>
+							<value>210,21</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -3859,7 +3865,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>441,770</value>
+							<value>672,1043</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -3871,7 +3877,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>273,700</value>
+							<value>497,27</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -3940,7 +3946,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>210,1141</value>
+							<value>266,1470</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -3952,7 +3958,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>133,903</value>
+							<value>72,903</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -4054,7 +4060,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>721,714</value>
+							<value>637,749</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -4066,7 +4072,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>679,798</value>
+							<value>965,1667</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -4168,7 +4174,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>273,910</value>
+							<value>350,1232</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -4180,7 +4186,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>133,875</value>
+							<value>91,287</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -4204,7 +4210,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>70,980</value>
+							<value>56,1302</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -4216,7 +4222,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>56,1008</value>
+							<value>258,889</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -4318,7 +4324,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>245,798</value>
+							<value>322,1120</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -4330,7 +4336,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>224,840</value>
+							<value>49,217</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -4432,7 +4438,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>126,1141</value>
+							<value>126,1470</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -4444,7 +4450,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>126,1085</value>
+							<value>744,1857</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -4546,7 +4552,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>35,1141</value>
+							<value>7,1470</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -4558,7 +4564,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>21,1078</value>
+							<value>903,1864</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -4660,7 +4666,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>105,1064</value>
+							<value>91,1386</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -4672,7 +4678,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>28,987</value>
+							<value>826,1785</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -4696,7 +4702,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>294,1141</value>
+							<value>385,1470</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -4708,7 +4714,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>322,1085</value>
+							<value>51,1032</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -4810,7 +4816,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>231,980</value>
+							<value>308,1302</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -4822,7 +4828,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>224,931</value>
+							<value>35,367</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -4924,7 +4930,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>273,1064</value>
+							<value>350,1386</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -4936,7 +4942,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>210,1001</value>
+							<value>119,833</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -4960,7 +4966,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>511,630</value>
+							<value>616,630</value>
 						</regnode>
 						<regnode name="preferredSize" isopaque="yes">
 							<value>114,58</value>
@@ -4975,7 +4981,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>511,630</value>
+							<value>1261,2049</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -5077,13 +5083,13 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>609,546</value>
+							<value>672,546</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>595,532</value>
+							<value>1386,2149</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -5107,7 +5113,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>644,497</value>
+							<value>791,497</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -5119,7 +5125,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>665,581</value>
+							<value>1522,2207</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -5188,7 +5194,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>945,1162</value>
+							<value>1190,1512</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -5200,7 +5206,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>595,1148</value>
+							<value>599,1196</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -5302,7 +5308,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>427,1288</value>
+							<value>490,1470</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -5314,7 +5320,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>427,1253</value>
+							<value>619,331</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -5410,13 +5416,13 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>462,1246</value>
+							<value>504,1351</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>357,1302</value>
+							<value>392,56</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -5434,13 +5440,13 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>546,1246</value>
+							<value>525,1330</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>546,1246</value>
+							<value>546,266</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -5464,7 +5470,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>252,1218</value>
+							<value>497,1708</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -5476,7 +5482,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>273,1232</value>
+							<value>431,143</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -5545,7 +5551,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>581,1288</value>
+							<value>497,1785</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -5557,7 +5563,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>581,1281</value>
+							<value>476,441</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -5620,13 +5626,13 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>630,1008</value>
+							<value>854,1316</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>630,1008</value>
+							<value>742,49</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -5650,7 +5656,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>588,875</value>
+							<value>805,1344</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -5662,7 +5668,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>588,896</value>
+							<value>734,130</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -5731,7 +5737,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>1141,231</value>
+							<value>1666,350</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -5743,7 +5749,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>875,273</value>
+							<value>1075,1252</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -5851,7 +5857,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>826,427</value>
+							<value>1365,602</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -5863,7 +5869,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>868,343</value>
+							<value>1163,312</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -5965,7 +5971,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>1022,427</value>
+							<value>1568,602</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -5977,7 +5983,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>994,350</value>
+							<value>1439,314</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -6079,7 +6085,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>861,231</value>
+							<value>1484,350</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -6091,7 +6097,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>784,294</value>
+							<value>1008,1144</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -6193,7 +6199,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>1120,539</value>
+							<value>1463,707</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -6205,7 +6211,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>938,511</value>
+							<value>933,986</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -6268,13 +6274,13 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>973,455</value>
+							<value>1519,630</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>987,476</value>
+							<value>1379,434</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -6298,7 +6304,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>938,308</value>
+							<value>1484,483</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -6310,7 +6316,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>665,399</value>
+							<value>1158,1442</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -6412,7 +6418,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>966,378</value>
+							<value>1512,553</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -6424,7 +6430,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>994,315</value>
+							<value>1204,238</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -6442,13 +6448,13 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>896,329</value>
+							<value>1519,427</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>840,273</value>
+							<value>1057,1379</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -6472,7 +6478,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>735,301</value>
+							<value>1309,413</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -6484,7 +6490,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>742,364</value>
+							<value>829,1399</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -6547,13 +6553,13 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>679,329</value>
+							<value>1456,441</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>679,329</value>
+							<value>966,1309</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -6577,7 +6583,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>819,7</value>
+							<value>805,7</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -6589,7 +6595,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>812,7</value>
+							<value>2019,1080</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -6691,7 +6697,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>735,35</value>
+							<value>1974,791</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -6727,7 +6733,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>693,70</value>
+							<value>1922,851</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -6796,7 +6802,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>735,154</value>
+							<value>1967,966</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -6820,7 +6826,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>833,133</value>
+							<value>819,231</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -6832,7 +6838,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>833,133</value>
+							<value>2026,1198</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -6934,7 +6940,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>784,1029</value>
+							<value>1022,1288</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -6946,7 +6952,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>889,1029</value>
+							<value>846,417</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -7048,7 +7054,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>854,1113</value>
+							<value>1092,1435</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -7060,7 +7066,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>910,1134</value>
+							<value>1001,581</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -7084,7 +7090,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>812,1162</value>
+							<value>1050,1512</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -7096,7 +7102,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>812,1169</value>
+							<value>2128,749</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -7198,7 +7204,7 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>693,1162</value>
+							<value>910,1512</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -7210,7 +7216,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>756,1099</value>
+							<value>935,716</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -7312,7 +7318,10 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>770,1288</value>
+							<value>819,1596</value>
+						</regnode>
+						<regnode name="preferredSize" isopaque="yes">
+							<value>94,58</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -7324,7 +7333,7 @@
 					<regnode name="Visualization" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>791,1365</value>
+							<value>691,639</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -7429,8 +7438,11 @@
 			</connection>
 			<connection id="id-0068-00000016" kind="AssociationClass" role="AssociationClass" guid="{48f4c442-2ee8-4bc7-874a-d91f70ae1eef}" relid="0x24">
 				<name>AssociationClass</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>sN</value>
+				</regnode>
 				<regnode name="customConnectionData" isopaque="yes">
-					<value>0,0,0,3,1,0,355,0,0,0</value>
+					<value>0,0,2,3,1,0,407,0,0,0</value>
 				</regnode>
 				<connpoint role="dst" target="id-0066-00000009"/>
 				<connpoint role="src" target="id-0066-00000010"/>
@@ -7479,6 +7491,9 @@
 			</connection>
 			<connection id="id-0068-00000024" kind="Containment" role="Containment" guid="{0d49c7dc-5b8a-44e0-8529-5e67dd044703}" relid="0x3d">
 				<name>Containment</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>N</value>
+				</regnode>
 				<regnode name="customConnectionData" isopaque="yes">
 					<value>0,0,2,3,1,1,0,319,0,0</value>
 				</regnode>
@@ -7559,6 +7574,9 @@
 			</connection>
 			<connection id="id-0068-00000032" kind="SourceToConnector" role="SourceToConnector" guid="{e6c20531-9e1e-42bb-82bf-13c388b13871}" relid="0x51">
 				<name>SourceToConnector</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>wS</value>
+				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
 				</attribute>
@@ -7570,6 +7588,9 @@
 			</connection>
 			<connection id="id-0068-00000034" kind="ConnectorToDestination" role="ConnectorToDestination" guid="{fc31ff8a-00f6-40fb-85a3-d6e3b8eca505}" relid="0x52">
 				<name>ConnectorToDestination</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>s</value>
+				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
 				</attribute>
@@ -7601,6 +7622,9 @@
 			</connection>
 			<connection id="id-0068-0000003a" kind="SourceToConnector" role="SourceToConnector" guid="{14349062-a2f3-45ab-b850-8c81b5b4d009}" relid="0x59">
 				<name>SourceToConnector</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>w</value>
+				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
 				</attribute>
@@ -7626,6 +7650,12 @@
 			</connection>
 			<connection id="id-0068-0000003c" kind="SourceToConnector" role="SourceToConnector" guid="{8ba7e3e9-30c2-41ac-850d-a3bca81570bd}" relid="0x5c">
 				<name>SourceToConnector</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>e</value>
+				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,0,1,1,0,372,0,0,0</value>
+				</regnode>
 				<attribute kind="Cardinality">
 					<value>0..1</value>
 				</attribute>
@@ -7638,7 +7668,7 @@
 			<connection id="id-0068-0000003e" kind="ConnectorToDestination" role="ConnectorToDestination" guid="{f9c9bc65-8db9-43b9-9b0b-4dff63cff1f3}" relid="0x5d">
 				<name>ConnectorToDestination</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>nN</value>
+					<value>sW</value>
 				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
@@ -7651,6 +7681,9 @@
 			</connection>
 			<connection id="id-0068-0000003f" kind="AssociationClass" role="AssociationClass" guid="{cd757891-34b0-44a5-82a5-2cc5cb998edc}" relid="0x5f">
 				<name>AssociationClass</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>s</value>
+				</regnode>
 				<connpoint role="dst" target="id-0066-0000001b"/>
 				<connpoint role="src" target="id-0066-0000001c"/>
 			</connection>
@@ -7711,11 +7744,20 @@
 				<regnode name="autorouterPref" isopaque="yes">
 					<value>e</value>
 				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,1,3,1,0,364,0,0,0</value>
+				</regnode>
 				<connpoint role="dst" target="id-0066-00000027"/>
 				<connpoint role="src" target="id-0066-00000028"/>
 			</connection>
 			<connection id="id-0068-00000055" kind="SourceToConnector" role="SourceToConnector" guid="{2afad828-3a42-494a-9568-5127e44e9f3b}" relid="0x8f">
 				<name>SourceToConnector</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>e</value>
+				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,0,2,1,0,311,0,0,0</value>
+				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
 				</attribute>
@@ -7727,6 +7769,12 @@
 			</connection>
 			<connection id="id-0068-00000057" kind="ConnectorToDestination" role="ConnectorToDestination" guid="{32c15f1a-0b9e-4d56-8130-ef1433b28f9c}" relid="0x90">
 				<name>ConnectorToDestination</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>W</value>
+				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,1,2,1,0,253,0,0,0</value>
+				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
 				</attribute>
@@ -7803,8 +7851,11 @@
 			</connection>
 			<connection id="id-0068-0000006d" kind="SourceToConnector" role="SourceToConnector" guid="{0169249a-aa65-4acf-98a8-ff1af73ca082}" relid="0xad">
 				<name>SourceToConnector</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>w</value>
+				</regnode>
 				<regnode name="customConnectionData" isopaque="yes">
-					<value>0,0,1,3,1,1,0,542,0,0</value>
+					<value>0,0,0,3,1,0,527,0,0,0;0,0,1,3,1,1,0,542,0,0;0,0,2,3,1,0,612,0,0,0</value>
 				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
@@ -7817,6 +7868,9 @@
 			</connection>
 			<connection id="id-0068-0000006f" kind="ConnectorToDestination" role="ConnectorToDestination" guid="{1e8d477f-f195-4663-bebe-f4d7346ed787}" relid="0xae">
 				<name>ConnectorToDestination</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>E</value>
+				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
 				</attribute>
@@ -7840,7 +7894,7 @@
 			<connection id="id-0068-00000071" kind="Containment" role="Containment" guid="{f44b9d2c-bf55-45cc-80d1-49356994960e}" relid="0xb1">
 				<name>Containment</name>
 				<regnode name="customConnectionData" isopaque="yes">
-					<value>0,0,0,3,1,1,0,728,0,0</value>
+					<value>0,0,0,3,1,1,0,708,0,0</value>
 				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
@@ -7887,6 +7941,9 @@
 			</connection>
 			<connection id="id-0068-00000075" kind="Containment" role="Containment" guid="{3748ac22-4249-4635-bd35-fd8a5c29914f}" relid="0xb5">
 				<name>Containment</name>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,2,3,1,0,680,0,0,0</value>
+				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
 				</attribute>
@@ -7918,11 +7975,6 @@
 				<connpoint role="dst" target="id-0066-0000001e"/>
 				<connpoint role="src" target="id-0069-00000003"/>
 			</connection>
-			<connection id="id-0068-00000078" kind="HasAspect" role="HasAspect" guid="{d08ac246-3cc8-4f11-bc89-ab6f0a12f851}" relid="0xb8">
-				<name>HasAspect</name>
-				<connpoint role="dst" target="id-0066-00000026"/>
-				<connpoint role="src" target="id-0069-00000003"/>
-			</connection>
 			<connection id="id-0068-0000007a" kind="ReferTo" role="ReferTo" guid="{e8a3bc16-cc9c-4e8c-abd7-b355ab40ade7}" relid="0xbb">
 				<name>ReferTo</name>
 				<attribute kind="ShowPorts" status="meta">
@@ -7934,7 +7986,10 @@
 			<connection id="id-0068-0000007e" kind="SourceToConnector" role="SourceToConnector" guid="{2b153dcb-0ee1-4008-ad25-71a09708ee89}" relid="0xc1">
 				<name>SourceToConnector</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>S</value>
+					<value>e</value>
+				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,0,3,1,1,0,1353,0,0</value>
 				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
@@ -7948,7 +8003,10 @@
 			<connection id="id-0068-0000007f" kind="ConnectorToDestination" role="ConnectorToDestination" guid="{3da2e4c1-8617-4a81-99d4-ec11c74fd2b2}" relid="0xc2">
 				<name>ConnectorToDestination</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>n</value>
+					<value></value>
+				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,2,3,1,0,508,0,0,0</value>
 				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
@@ -7962,7 +8020,10 @@
 			<connection id="id-0068-00000080" kind="SourceToConnector" role="SourceToConnector" guid="{7750231d-bff2-4b5b-90b6-1ef4b3f601ed}" relid="0xc4">
 				<name>SourceToConnector</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>E</value>
+					<value>sEN</value>
+				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,0,4,1,1,0,1470,0,0</value>
 				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
@@ -7987,7 +8048,7 @@
 			<connection id="id-0068-00000082" kind="AssociationClass" role="AssociationClass" guid="{ea5ec1aa-360c-4ff2-9feb-8b10e13a013a}" relid="0xc7">
 				<name>AssociationClass</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>w</value>
+					<value>wW</value>
 				</regnode>
 				<connpoint role="dst" target="id-0066-0000003c"/>
 				<connpoint role="src" target="id-0066-0000003e"/>
@@ -7995,13 +8056,19 @@
 			<connection id="id-0068-00000083" kind="AssociationClass" role="AssociationClass" guid="{ad0c435b-2cf7-490c-b975-1a2530571151}" relid="0xc9">
 				<name>AssociationClass</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>W</value>
+					<value>wW</value>
 				</regnode>
 				<connpoint role="dst" target="id-0066-0000003d"/>
 				<connpoint role="src" target="id-0066-0000003f"/>
 			</connection>
 			<connection id="id-0068-00000086" kind="Containment" role="Containment" guid="{8c8e21d0-ceb6-4307-9eba-3832ec8478fb}" relid="0xcd">
 				<name>Containment</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>E</value>
+				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,0,3,1,0,621,0,0,0;0,0,1,3,1,1,0,1708,0,0</value>
+				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
 				</attribute>
@@ -8017,7 +8084,7 @@
 			<connection id="id-0068-00000087" kind="Containment" role="Containment" guid="{a5b324c8-81e0-4b34-a487-da30ecf118e8}" relid="0xce">
 				<name>Containment</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>e</value>
+					<value>E</value>
 				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
@@ -8034,7 +8101,7 @@
 			<connection id="id-0068-0000008a" kind="ConnectorToDestination" role="ConnectorToDestination" guid="{1a9452d5-69e4-43cc-beb0-6328b899b047}" relid="0xd1">
 				<name>ConnectorToDestination</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>Ee</value>
+					<value>eW</value>
 				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
@@ -8048,7 +8115,7 @@
 			<connection id="id-0068-0000008b" kind="AssociationClass" role="AssociationClass" guid="{509965bc-374a-48df-8a0b-d03e326eed21}" relid="0xd3">
 				<name>AssociationClass</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>S</value>
+					<value>s</value>
 				</regnode>
 				<connpoint role="dst" target="id-0066-00000041"/>
 				<connpoint role="src" target="id-0066-00000042"/>
@@ -8069,6 +8136,9 @@
 			</connection>
 			<connection id="id-0068-0000008d" kind="Containment" role="Containment" guid="{58ebde99-632d-4370-846d-84ea9754fc32}" relid="0xd5">
 				<name>Containment</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>S</value>
+				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
 				</attribute>
@@ -8133,6 +8203,9 @@
 			</connection>
 			<connection id="id-0068-000000aa" kind="Containment" role="Containment" guid="{3e3f5c6e-bbe4-4cc0-8fb3-017a3692f732}" relid="0x107">
 				<name>Containment</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>E</value>
+				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
 				</attribute>
@@ -8205,10 +8278,10 @@
 			<connection id="id-0068-000000bc" kind="ConnectorToDestination" role="ConnectorToDestination" guid="{505b28aa-4f57-4bd7-907c-f56a3c9d4792}" relid="0x11b">
 				<name>ConnectorToDestination</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>Ew</value>
+					<value>nwS</value>
 				</regnode>
 				<regnode name="customConnectionData" isopaque="yes">
-					<value>0,0,0,3,1,1,0,333,0,0;0,0,2,3,1,1,0,333,0,0</value>
+					<value>0,0,0,1,1,0,1481,0,0,0</value>
 				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
@@ -8223,6 +8296,9 @@
 				<name>AssociationClass</name>
 				<regnode name="autorouterPref" isopaque="yes">
 					<value>Ew</value>
+				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,0,3,1,1,0,430,0,0</value>
 				</regnode>
 				<connpoint role="dst" target="id-0066-00000053"/>
 				<connpoint role="src" target="id-0066-00000054"/>
@@ -8258,13 +8334,16 @@
 			<connection id="id-0068-000000c4" kind="AssociationClass" role="AssociationClass" guid="{fd5b6111-8311-4514-848b-d01682a29502}" relid="0x124">
 				<name>AssociationClass</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>We</value>
+					<value>w</value>
 				</regnode>
 				<connpoint role="src" target="id-0066-00000054"/>
 				<connpoint role="dst" target="id-0066-00000056"/>
 			</connection>
 			<connection id="id-0068-000000c5" kind="Containment" role="Containment" guid="{23303a17-fdaf-4462-835c-dea91d301033}" relid="0x125">
 				<name>Containment</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>nN</value>
+				</regnode>
 				<regnode name="customConnectionData" isopaque="yes">
 					<value>0,0,0,5,1,1,0,316,0,0</value>
 				</regnode>
@@ -8339,7 +8418,7 @@
 			<connection id="id-0068-000000cb" kind="SourceToConnector" role="SourceToConnector" guid="{adea5e52-90bb-4117-ab34-695b6833c9d8}" relid="0x12e">
 				<name>SourceToConnector</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>Ew</value>
+					<value>wS</value>
 				</regnode>
 				<regnode name="customConnectionData" isopaque="yes">
 					<value>0,0,0,3,1,1,0,61,0,0</value>
@@ -8414,7 +8493,7 @@
 			<connection id="id-0068-000000d3" kind="SourceToConnector" role="SourceToConnector" guid="{fee75ace-4293-4a4a-be0d-0b79065dc7c9}" relid="0x138">
 				<name>SourceToConnector</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>W</value>
+					<value>eW</value>
 				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
@@ -8455,6 +8534,9 @@
 				<regnode name="autorouterPref" isopaque="yes">
 					<value>Sn</value>
 				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,0,3,1,0,1108,0,0,0;0,0,1,3,1,1,0,1496,0,0</value>
+				</regnode>
 				<connpoint role="dst" target="id-0066-0000003a"/>
 				<connpoint role="src" target="id-0066-0000005d"/>
 			</connection>
@@ -8480,13 +8562,19 @@
 				<regnode name="autorouterPref" isopaque="yes">
 					<value>Sn</value>
 				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,0,1,1,0,1103,0,0,0</value>
+				</regnode>
 				<connpoint role="src" target="id-0066-0000005d"/>
 				<connpoint role="dst" target="id-0066-0000005e"/>
 			</connection>
 			<connection id="id-0068-000000da" kind="ReferTo" role="ReferTo" guid="{e413ab67-1c48-4c15-b2c6-e6c3db5c06fd}" relid="0x141">
 				<name>ReferTo</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>e</value>
+					<value>eS</value>
+				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,2,4,1,0,1099,0,0,0</value>
 				</regnode>
 				<attribute kind="ShowPorts" status="meta">
 					<value>true</value>
@@ -8499,13 +8587,19 @@
 				<regnode name="autorouterPref" isopaque="yes">
 					<value>n</value>
 				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,1,3,1,1,0,1496,0,0</value>
+				</regnode>
 				<connpoint role="src" target="id-0066-0000005d"/>
 				<connpoint role="dst" target="id-0066-0000005f"/>
 			</connection>
 			<connection id="id-0068-000000dd" kind="ReferTo" role="ReferTo" guid="{b26f8b7c-efd5-4d6a-b0b2-06870c28931a}" relid="0x145">
 				<name>ReferTo</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>Se</value>
+					<value>S</value>
+				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,3,5,1,1,0,544,0,0;0,0,4,5,1,0,1519,0,0,0</value>
 				</regnode>
 				<attribute kind="ShowPorts" status="meta">
 					<value>true</value>
@@ -8516,7 +8610,10 @@
 			<connection id="id-0068-000000de" kind="Containment" role="Containment" guid="{bcf7f7c3-0141-4cab-8295-e2141bcdc9ef}" relid="0x146">
 				<name>Containment</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>Ne</value>
+					<value>sN</value>
+				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,2,5,1,0,243,0,0,0</value>
 				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
@@ -8533,7 +8630,7 @@
 			<connection id="id-0068-000000e1" kind="Containment" role="Containment" guid="{4a37ef5c-207d-4293-9219-10dc5fb66928}" relid="0x14b">
 				<name>Containment</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>Ew</value>
+					<value>nwS</value>
 				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
@@ -8546,6 +8643,16 @@
 				</attribute>
 				<connpoint role="src" target="id-0066-00000026"/>
 				<connpoint role="dst" target="id-0066-00000061"/>
+			</connection>
+			<connection id="id-0068-000000e2" kind="HasAspect" role="HasAspect" guid="{9cdf201c-1cea-4069-8288-b7b57fb3e895}" relid="0x14c">
+				<name>HasAspect</name>
+				<connpoint role="dst" target="id-0066-00000061"/>
+				<connpoint role="src" target="id-0069-00000003"/>
+			</connection>
+			<connection id="id-0068-000000e3" kind="HasAspect" role="HasAspect" guid="{1f33e1fd-975e-4d14-a7c6-9efd12702295}" relid="0x14d">
+				<name>HasAspect</name>
+				<connpoint role="dst" target="id-0066-00000026"/>
+				<connpoint role="src" target="id-0069-00000003"/>
 			</connection>
 			<set id="id-0069-00000003" kind="Aspect" role="Aspect" guid="{95350200-0500-463b-884b-f64d8f753989}" relid="0x22" members="id-0066-00000002 id-0066-00000008 id-0066-0000000b id-0066-00000010 id-0066-00000011 id-0066-00000012 id-0066-00000013 id-0066-00000014 id-0066-00000015 id-0066-0000001a id-0066-0000001c id-0066-0000001e id-0066-00000028 id-0066-0000002b id-0066-0000002f id-0066-00000037 id-0066-00000039 id-0066-0000003b id-0066-0000003e id-0066-0000003f id-0066-00000042 id-0066-00000043 id-0066-00000046 id-0066-0000004f id-0066-00000051 id-0066-00000054 id-0066-00000057 id-0066-00000059 id-0066-0000005b id-0066-0000005c id-0066-00000061">
 				<name>Default</name>
