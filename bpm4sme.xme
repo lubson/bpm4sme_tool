@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE project SYSTEM "mga.dtd">
 
-<project guid="{56FA3EDA-E9C1-4E0B-B8C2-270A4637B718}" cdate="Thu May 22 19:52:30 2014" mdate="Thu May 22 19:52:30 2014" version="0.9" metaguid="{C84D2738-4519-44F2-B4C1-114F73567576}" metaversion="" metaname="MetaGME">
+<project guid="{B03BAA96-55C1-4BEA-AFF9-0544FC17F5F2}" cdate="Thu May 22 19:52:30 2014" mdate="Thu May 22 19:52:30 2014" version="0.9" metaguid="{C84D2738-4519-44F2-B4C1-114F73567576}" metaversion="" metaname="MetaGME">
 	<name>BPM4SME</name>
 	<comment></comment>
 	<author>Lubomir Hruban</author>
@@ -1972,7 +1972,7 @@
 				</regnode>
 			</regnode>
 		</regnode>
-		<model id="id-0065-00000001" kind="ParadigmSheet" guid="{ed948fd8-1ff9-4443-a4bb-c64a8422ec81}" relid="0x1" childrelidcntr="0x14d">
+		<model id="id-0065-00000001" kind="ParadigmSheet" guid="{ed948fd8-1ff9-4443-a4bb-c64a8422ec81}" relid="0x1" childrelidcntr="0x186">
 			<name>ParadigmSheet</name>
 			<atom id="id-0066-00000002" kind="Model" role="Model" guid="{15e83d07-8793-4d4d-a10e-aec9f8076c0a}" relid="0x2">
 				<name>Folder</name>
@@ -1987,7 +1987,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>105,98</value>
+							<value>420,1638</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -2100,48 +2100,6 @@
 					<value></value>
 				</attribute>
 			</atom>
-			<atom id="id-0066-00000005" kind="FieldAttribute" role="FieldAttribute" guid="{12a0d7c6-4ffc-4281-805e-12ac3ef7281d}" relid="0x7">
-				<name>Name</name>
-				<regnode name="PartRegs" status="undefined">
-					<value></value>
-					<regnode name="All" status="undefined">
-						<value></value>
-						<regnode name="Position" isopaque="yes">
-							<value>280,133</value>
-						</regnode>
-					</regnode>
-					<regnode name="Attributes" status="undefined">
-						<value></value>
-						<regnode name="Position" isopaque="yes">
-							<value>273,203</value>
-						</regnode>
-					</regnode>
-				</regnode>
-				<attribute kind="ContentType" status="meta">
-					<value></value>
-				</attribute>
-				<attribute kind="DataType" status="meta">
-					<value>string</value>
-				</attribute>
-				<attribute kind="FieldDefault" status="meta">
-					<value></value>
-				</attribute>
-				<attribute kind="GlobalScope" status="meta">
-					<value>true</value>
-				</attribute>
-				<attribute kind="Help" status="meta">
-					<value></value>
-				</attribute>
-				<attribute kind="IsViewable" status="meta">
-					<value>true</value>
-				</attribute>
-				<attribute kind="Multiline" status="meta">
-					<value>1</value>
-				</attribute>
-				<attribute kind="Prompt" status="meta">
-					<value></value>
-				</attribute>
-			</atom>
 			<atom id="id-0066-00000008" kind="Atom" role="Atom" guid="{09dda3e1-c077-42c8-8db1-951cb1444220}" relid="0xc">
 				<name>Objective</name>
 				<regnode name="PartRegs" status="undefined">
@@ -2155,7 +2113,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>189,259</value>
+							<value>1575,287</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -2293,7 +2251,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>35,210</value>
+							<value>1883,287</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -2407,7 +2365,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>350,91</value>
+							<value>189,1554</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -2488,13 +2446,13 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>140,357</value>
+							<value>1883,189</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>329,637</value>
+							<value>343,623</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -2620,13 +2578,13 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>266,378</value>
+							<value>1540,189</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>7,637</value>
+							<value>77,567</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -2734,7 +2692,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>56,301</value>
+							<value>1736,392</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -2848,7 +2806,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>392,406</value>
+							<value>1715,84</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -2971,7 +2929,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>497,294</value>
+							<value>42,1554</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -3079,7 +3037,7 @@
 				</attribute>
 			</atom>
 			<atom id="id-0066-00000018" kind="FieldAttribute" role="FieldAttribute" guid="{ac74431b-359d-4433-8e82-fce7d50c4376}" relid="0x48">
-				<name>Content</name>
+				<name>VisibleContent</name>
 				<regnode name="PartRegs" status="undefined">
 					<value></value>
 					<regnode name="All" status="undefined">
@@ -3091,7 +3049,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>224,504</value>
+							<value>1722,189</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -3116,8 +3074,8 @@
 				<attribute kind="Multiline">
 					<value>15</value>
 				</attribute>
-				<attribute kind="Prompt" status="meta">
-					<value></value>
+				<attribute kind="Prompt">
+					<value>Conent</value>
 				</attribute>
 			</atom>
 			<atom id="id-0066-00000019" kind="Connector" role="Connector" guid="{4f846cef-c12c-429f-8293-e31b48289b17}" relid="0x50">
@@ -3157,13 +3115,13 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>140,434</value>
+							<value>350,1554</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>196,637</value>
+							<value>217,616</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -3262,7 +3220,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>154,28</value>
+							<value>336,1470</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -3334,6 +3292,12 @@
 				<name>Organization</name>
 				<regnode name="PartRegs" status="undefined">
 					<value></value>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>392,1302</value>
+						</regnode>
+					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
@@ -3448,13 +3412,13 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>147,658</value>
+							<value>497,469</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>637,1302</value>
+							<value>609,1274</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -3562,13 +3526,13 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>168,735</value>
+							<value>581,672</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>665,1386</value>
+							<value>651,1400</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -3598,7 +3562,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>84,770</value>
+							<value>469,714</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -3712,13 +3676,13 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>252,770</value>
+							<value>602,714</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>714,1470</value>
+							<value>728,1470</value>
 						</regnode>
 						<regnode name="preferredSize" isopaque="yes">
 							<value>78,58</value>
@@ -3859,13 +3823,13 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>273,700</value>
+							<value>203,1302</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>672,1043</value>
+							<value>686,1043</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -3940,13 +3904,13 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>98,868</value>
+							<value>1519,728</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>266,1470</value>
+							<value>224,1512</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -4054,7 +4018,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>679,798</value>
+							<value>819,1288</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -4168,7 +4132,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>182,924</value>
+							<value>1078,385</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -4204,7 +4168,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>28,980</value>
+							<value>1043,462</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -4318,7 +4282,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>168,770</value>
+							<value>1008,168</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -4432,13 +4396,13 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>119,1106</value>
+							<value>945,728</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>126,1470</value>
+							<value>154,1442</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -4546,7 +4510,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>14,1106</value>
+							<value>1099,728</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -4660,7 +4624,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>91,1050</value>
+							<value>1078,665</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -4696,13 +4660,13 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>322,1085</value>
+							<value>1414,728</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>385,1470</value>
+							<value>364,1449</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -4810,7 +4774,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>266,889</value>
+							<value>1449,462</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -4924,7 +4888,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>252,959</value>
+							<value>1491,665</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -4960,7 +4924,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>511,630</value>
+							<value>805,1477</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -5107,7 +5071,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>623,539</value>
+							<value>798,1582</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -5188,7 +5152,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>427,1085</value>
+							<value>231,182</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -5302,13 +5266,13 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>427,1253</value>
+							<value>602,168</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>490,1470</value>
+							<value>448,1428</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -5464,7 +5428,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>273,1232</value>
+							<value>203,1386</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -5545,7 +5509,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>581,1281</value>
+							<value>42,1386</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -5650,13 +5614,13 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>588,896</value>
+							<value>189,1218</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>805,1344</value>
+							<value>805,1358</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
@@ -5731,7 +5695,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>847,301</value>
+							<value>1190,931</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -5851,7 +5815,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>868,343</value>
+							<value>826,1134</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -5965,7 +5929,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>973,371</value>
+							<value>693,1134</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -6079,7 +6043,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>791,301</value>
+							<value>980,938</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -6193,7 +6157,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>938,511</value>
+							<value>42,1302</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -6298,7 +6262,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>672,392</value>
+							<value>721,1015</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -6412,7 +6376,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>973,336</value>
+							<value>805,1092</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -6472,7 +6436,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>763,322</value>
+							<value>42,1218</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -6577,7 +6541,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>749,14</value>
+							<value>259,1722</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -6715,7 +6679,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>693,70</value>
+							<value>315,1134</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -6820,7 +6784,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>833,133</value>
+							<value>175,1134</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -6934,7 +6898,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>889,1029</value>
+							<value>91,35</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -7048,7 +7012,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>910,1134</value>
+							<value>161,126</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -7084,7 +7048,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>812,1169</value>
+							<value>7,182</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -7198,7 +7162,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>693,1162</value>
+							<value>119,182</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -7312,7 +7276,7 @@
 					<regnode name="Attributes" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>791,1365</value>
+							<value>42,1134</value>
 						</regnode>
 					</regnode>
 					<regnode name="ClassDiagram" status="undefined">
@@ -7422,6 +7386,904 @@
 					<value></value>
 				</attribute>
 			</atom>
+			<atom id="id-0066-00000062" kind="FieldAttribute" role="FieldAttribute" guid="{cbe07074-e0d3-4ea8-b5c2-73cf14214e67}" relid="0x151">
+				<name>Content</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1456,245</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1722,287</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="ContentType" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="DataType" status="meta">
+					<value>string</value>
+				</attribute>
+				<attribute kind="FieldDefault" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Multiline">
+					<value>15</value>
+				</attribute>
+				<attribute kind="Prompt" status="meta">
+					<value></value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000063" kind="FieldAttribute" role="FieldAttribute" guid="{7f10cff5-63d2-4dc1-8aad-927e9995cbd9}" relid="0x155">
+				<name>BPMNDocumentation</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1015,63</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1022,63</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="ContentType" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="DataType" status="meta">
+					<value>string</value>
+				</attribute>
+				<attribute kind="FieldDefault" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Multiline">
+					<value>20</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Documentation</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000064" kind="EnumAttribute" role="EnumAttribute" guid="{98ac94b9-4990-4e5b-8b84-6c13f3d968df}" relid="0x158">
+				<name>StartEventType</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1078,644</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>959,847</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="DefaultItem">
+					<value>None</value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="MenuItems">
+					<value>None, 0
+Message, 1
+Timer, 2</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Type</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000065" kind="EnumAttribute" role="EnumAttribute" guid="{1650f58f-099d-4b3a-a904-75e6589ae247}" relid="0x15a">
+				<name>EndEventType</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1099,630</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1106,847</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="DefaultItem">
+					<value>None</value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="MenuItems">
+					<value>None, 0
+Message, 1
+Terminate, 2</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Type</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000066" kind="EnumAttribute" role="EnumAttribute" guid="{28cb023e-f3e1-4a8a-803b-a4d41837e025}" relid="0x15c">
+				<name>Visibility</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>672,105</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>420,259</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="DefaultItem">
+					<value>None</value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="MenuItems">
+					<value>None, 0
+Input, 1
+Output, 2</value>
+				</attribute>
+				<attribute kind="Prompt" status="meta">
+					<value></value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000067" kind="BooleanAttribute" role="BooleanAttribute" guid="{d417af33-7eb2-47c2-9d47-e70007b143f3}" relid="0x15e">
+				<name>IsCollection</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>658,63</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>406,189</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="BooleanDefault" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Is a Collection?</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000068" kind="FieldAttribute" role="FieldAttribute" guid="{88cb16c0-0db5-4988-82bd-f32b3eea8880}" relid="0x15f">
+				<name>State</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>686,42</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>427,119</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="ContentType" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="DataType" status="meta">
+					<value>string</value>
+				</attribute>
+				<attribute kind="FieldDefault" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Multiline" status="meta">
+					<value>1</value>
+				</attribute>
+				<attribute kind="Prompt" status="meta">
+					<value></value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000069" kind="FieldAttribute" role="FieldAttribute" guid="{5e996099-5f69-4f32-94d7-92ec174a71e3}" relid="0x162">
+				<name>Condition</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1498,560</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1638,728</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="ContentType" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="DataType" status="meta">
+					<value>string</value>
+				</attribute>
+				<attribute kind="FieldDefault" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Multiline">
+					<value>2</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Description of Condition</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-0000006a" kind="BooleanAttribute" role="BooleanAttribute" guid="{20f181c1-fe12-4279-b4a1-5decad61caec}" relid="0x164">
+				<name>IsCallActivity</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>441,364</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>308,343</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="BooleanDefault" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Is a Call Activity?</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-0000006b" kind="FieldAttribute" role="FieldAttribute" guid="{cf5e2a1d-45e5-4252-a5bd-387ec00ab954}" relid="0x165">
+				<name>ExecutionTime</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>448,462</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>329,567</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="ContentType" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="DataType">
+					<value>double</value>
+				</attribute>
+				<attribute kind="FieldDefault" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Multiline" status="meta">
+					<value>1</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Execution Time</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-0000006d" kind="EnumAttribute" role="EnumAttribute" guid="{09bbc5fa-44a0-4aff-99b1-b978d235c560}" relid="0x167">
+				<name>ExecutionTimeMeasure</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>294,462</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>301,637</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="DefaultItem">
+					<value>Min</value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="MenuItems">
+					<value>Sec, 0
+Min, 1
+Hour, 2
+Day, 3</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Measure of Execution Time</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-0000006e" kind="FieldAttribute" role="FieldAttribute" guid="{d2910884-6fba-4c68-a5b3-a47c9193cac8}" relid="0x168">
+				<name>ExecutionCost</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>315,378</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>329,497</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="ContentType" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="DataType">
+					<value>double</value>
+				</attribute>
+				<attribute kind="FieldDefault" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Multiline" status="meta">
+					<value>1</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Execution Cost</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-0000006f" kind="EnumAttribute" role="EnumAttribute" guid="{8e767713-8a8b-4d34-b428-0740a355e185}" relid="0x16d">
+				<name>TaskType</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>511,728</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>322,714</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="DefaultItem">
+					<value>None</value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="MenuItems">
+					<value>None, 0
+User, 1
+Service, 2</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Type</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000071" kind="EnumAttribute" role="EnumAttribute" guid="{dc0a8351-089f-4ca9-8703-8805fa7d9b85}" relid="0x16e">
+				<name>LoopType</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>518,672</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>322,420</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="DefaultItem">
+					<value>None</value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="MenuItems">
+					<value>None, 0
+Standard Loop, 1
+Parallel, 2
+Sequential, 3</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Loop Type</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000072" kind="EnumAttribute" role="EnumAttribute" guid="{e448a401-286e-4ee8-8809-2876a797389f}" relid="0x172">
+				<name>ProcessVisibility</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>441,833</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>770,721</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="DefaultItem">
+					<value>None</value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="MenuItems">
+					<value>None, 0
+Private, 1
+Public, 2</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Process Visibility</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000074" kind="BooleanAttribute" role="BooleanAttribute" guid="{040c24a4-c6db-429c-b1fe-956fe16daa29}" relid="0x174">
+				<name>IsAdhoc</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>770,651</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>770,651</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="BooleanDefault" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Is Adhoc?</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000075" kind="EnumAttribute" role="EnumAttribute" guid="{b5de2328-313c-4bab-85e6-c3c901650840}" relid="0x176">
+				<name>RelationBetwennUnits</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>616,1575</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>602,1582</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="DefaultItem">
+					<value>Control</value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="MenuItems">
+					<value>Control, 0
+Cooperates, 1</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Relation</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000076" kind="EnumAttribute" role="EnumAttribute" guid="{e4c6c236-552f-44b7-8a1a-47a520ff52bb}" relid="0x178">
+				<name>CompanyAffilliation</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1022,1477</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1001,1379</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="DefaultItem">
+					<value>In-House</value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="MenuItems">
+					<value>In-House, 0
+External, 1</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value></value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000077" kind="FieldAttribute" role="FieldAttribute" guid="{0bd952cd-85d6-455e-8f3e-5bf044769a2d}" relid="0x179">
+				<name>Description</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>714,1393</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>826,1386</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="ContentType" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="DataType" status="meta">
+					<value>string</value>
+				</attribute>
+				<attribute kind="FieldDefault" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Multiline" status="meta">
+					<value>1</value>
+				</attribute>
+				<attribute kind="Prompt" status="meta">
+					<value></value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000078" kind="FieldAttribute" role="FieldAttribute" guid="{dc1cd9b0-6ed7-4172-847d-516b2780ca53}" relid="0x17a">
+				<name>JobDescription</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>875,1393</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1057,1302</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="ContentType" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="DataType" status="meta">
+					<value>string</value>
+				</attribute>
+				<attribute kind="FieldDefault" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Multiline" status="meta">
+					<value>1</value>
+				</attribute>
+				<attribute kind="Prompt" status="meta">
+					<value></value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000079" kind="FieldAttribute" role="FieldAttribute" guid="{ce47b9bd-67ea-4482-93b3-3331d8f69273}" relid="0x17b">
+				<name>Abbreviation</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>574,1477</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>623,1358</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="ContentType" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="DataType" status="meta">
+					<value>string</value>
+				</attribute>
+				<attribute kind="FieldDefault" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Multiline" status="meta">
+					<value>1</value>
+				</attribute>
+				<attribute kind="Prompt" status="meta">
+					<value></value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-0000007a" kind="FieldAttribute" role="FieldAttribute" guid="{124bac99-5beb-4f41-8476-5a318dcdefb6}" relid="0x181">
+				<name>ComponentDocumentation</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>462,966</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>994,1085</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="ContentType" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="DataType" status="meta">
+					<value>string</value>
+				</attribute>
+				<attribute kind="FieldDefault" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Multiline">
+					<value>15</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Documentation</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-0000007b" kind="EnumAttribute" role="EnumAttribute" guid="{2be291a6-6dd2-4f0b-b2f5-7ddf0f330022}" relid="0x185">
+				<name>ComponentType</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>462,973</value>
+						</regnode>
+					</regnode>
+					<regnode name="Attributes" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1274,1078</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="DefaultItem">
+					<value>Internal</value>
+				</attribute>
+				<attribute kind="GlobalScope" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="Help" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="IsViewable" status="meta">
+					<value>true</value>
+				</attribute>
+				<attribute kind="MenuItems">
+					<value>Internal, 0
+External, 1</value>
+				</attribute>
+				<attribute kind="Prompt">
+					<value>Type</value>
+				</attribute>
+			</atom>
 			<connection id="id-0068-00000009" kind="ConnectorToDestination" role="ConnectorToDestination" guid="{1ba47322-7c25-4100-97c9-6bc4488e38f0}" relid="0xf">
 				<name>ConnectorToDestination</name>
 				<regnode name="customConnectionData" isopaque="yes">
@@ -7477,6 +8339,9 @@
 			</connection>
 			<connection id="id-0068-00000023" kind="Containment" role="Containment" guid="{1f3e21b4-26a7-43c8-a4e6-b3502ee9fd65}" relid="0x3c">
 				<name>Containment</name>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,2,3,1,0,303,0,0,0</value>
+				</regnode>
 				<attribute kind="Cardinality">
 					<value>0..1</value>
 				</attribute>
@@ -7569,6 +8434,9 @@
 			</connection>
 			<connection id="id-0068-00000031" kind="HasAttribute" role="HasAttribute" guid="{71a5b8fe-3265-4317-b103-a9f8fb7ffef6}" relid="0x4b">
 				<name>HasAttribute</name>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,3,0,3,1,0,1703,0,0,0;0,3,2,3,1,0,1706,0,0,0</value>
+				</regnode>
 				<connpoint role="dst" target="id-0066-00000014"/>
 				<connpoint role="src" target="id-0066-00000018"/>
 			</connection>
@@ -7718,7 +8586,7 @@
 			<connection id="id-0068-00000048" kind="BaseInheritance" role="BaseInheritance" guid="{1a0d0cb4-8852-4869-a419-4c44e4df83f2}" relid="0x78">
 				<name>BaseInheritance</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>n</value>
+					<value>nS</value>
 				</regnode>
 				<connpoint role="src" target="id-0066-00000023"/>
 				<connpoint role="dst" target="id-0066-00000024"/>
@@ -8103,6 +8971,9 @@
 				<regnode name="autorouterPref" isopaque="yes">
 					<value>eW</value>
 				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,2,3,1,1,0,1319,0,0</value>
+				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
 				</attribute>
@@ -8307,6 +9178,9 @@
 				<name>SourceToConnector</name>
 				<regnode name="autorouterPref" isopaque="yes">
 					<value>Ws</value>
+				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,0,2,1,1,0,497,0,0</value>
 				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
@@ -8596,7 +9470,7 @@
 			<connection id="id-0068-000000dd" kind="ReferTo" role="ReferTo" guid="{b26f8b7c-efd5-4d6a-b0b2-06870c28931a}" relid="0x145">
 				<name>ReferTo</name>
 				<regnode name="autorouterPref" isopaque="yes">
-					<value>S</value>
+					<value>wS</value>
 				</regnode>
 				<regnode name="customConnectionData" isopaque="yes">
 					<value>0,0,3,5,1,1,0,544,0,0;0,0,4,5,1,0,1519,0,0,0</value>
@@ -8653,6 +9527,205 @@
 				<name>HasAspect</name>
 				<connpoint role="dst" target="id-0066-00000026"/>
 				<connpoint role="src" target="id-0069-00000003"/>
+			</connection>
+			<connection id="id-0068-000000e7" kind="HasAttribute" role="HasAttribute" guid="{2c55ca9e-9a54-4161-ad50-e45b8969b35d}" relid="0x152">
+				<name>HasAttribute</name>
+				<connpoint role="dst" target="id-0066-0000000b"/>
+				<connpoint role="src" target="id-0066-00000062"/>
+			</connection>
+			<connection id="id-0068-000000e8" kind="HasAttribute" role="HasAttribute" guid="{4d500891-e44f-409c-98f3-8cf7b35985f2}" relid="0x153">
+				<name>HasAttribute</name>
+				<connpoint role="dst" target="id-0066-00000013"/>
+				<connpoint role="src" target="id-0066-00000062"/>
+			</connection>
+			<connection id="id-0068-000000e9" kind="HasAttribute" role="HasAttribute" guid="{5a6351e0-8b6b-42ce-9ea6-e7a5405c6ad2}" relid="0x154">
+				<name>HasAttribute</name>
+				<connpoint role="dst" target="id-0066-00000008"/>
+				<connpoint role="src" target="id-0066-00000062"/>
+			</connection>
+			<connection id="id-0068-000000ea" kind="HasAttribute" role="HasAttribute" guid="{2e24fba0-570e-46cc-8f05-6483b3fe4c40}" relid="0x156">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>S</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-0000002f"/>
+				<connpoint role="src" target="id-0066-00000063"/>
+			</connection>
+			<connection id="id-0068-000000eb" kind="HasAttribute" role="HasAttribute" guid="{3d7d8fba-0572-43ac-b668-5f39879c5920}" relid="0x157">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>Wn</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-0000003b"/>
+				<connpoint role="src" target="id-0066-00000063"/>
+			</connection>
+			<connection id="id-0068-000000ec" kind="HasAttribute" role="HasAttribute" guid="{574554b7-2cde-4ffb-b07f-a9dce5de570a}" relid="0x159">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>s</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-00000031"/>
+				<connpoint role="src" target="id-0066-00000064"/>
+			</connection>
+			<connection id="id-0068-000000ed" kind="HasAttribute" role="HasAttribute" guid="{75f06c95-cd32-4c1d-b022-ca2b2815f080}" relid="0x15b">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>Ns</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-00000032"/>
+				<connpoint role="src" target="id-0066-00000065"/>
+			</connection>
+			<connection id="id-0068-000000ee" kind="HasAttribute" role="HasAttribute" guid="{0f520aa4-47f9-4552-b9aa-5d5a3b784f10}" relid="0x15d">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>w</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-0000003b"/>
+				<connpoint role="src" target="id-0066-00000066"/>
+			</connection>
+			<connection id="id-0068-000000ef" kind="HasAttribute" role="HasAttribute" guid="{70adda77-518b-4164-9d96-6477ff995073}" relid="0x160">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>Ew</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-0000003b"/>
+				<connpoint role="src" target="id-0066-00000067"/>
+			</connection>
+			<connection id="id-0068-000000f0" kind="HasAttribute" role="HasAttribute" guid="{2302d2ff-ae6d-4607-8f68-acdef8695e12}" relid="0x161">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>Ew</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-0000003b"/>
+				<connpoint role="src" target="id-0066-00000068"/>
+			</connection>
+			<connection id="id-0068-000000f1" kind="HasAttribute" role="HasAttribute" guid="{2d19468f-f058-4b31-a2e0-d3e8e9e02b24}" relid="0x163">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>We</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-00000029"/>
+				<connpoint role="src" target="id-0066-00000069"/>
+			</connection>
+			<connection id="id-0068-000000f2" kind="HasAttribute" role="HasAttribute" guid="{dfe14560-3312-493c-b759-4309a5c0ad30}" relid="0x169">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>Ew</value>
+				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,3,1,3,1,0,471,0,0,0</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-00000023"/>
+				<connpoint role="src" target="id-0066-0000006d"/>
+			</connection>
+			<connection id="id-0068-000000f3" kind="HasAttribute" role="HasAttribute" guid="{9a6ada78-de06-40c0-9533-70362e7827ee}" relid="0x16a">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>Ew</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-00000023"/>
+				<connpoint role="src" target="id-0066-0000006e"/>
+			</connection>
+			<connection id="id-0068-000000f4" kind="HasAttribute" role="HasAttribute" guid="{184bc3da-8915-4ade-984d-65e7c5eb1d2b}" relid="0x16b">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>Ew</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-00000023"/>
+				<connpoint role="src" target="id-0066-0000006b"/>
+			</connection>
+			<connection id="id-0068-000000f5" kind="HasAttribute" role="HasAttribute" guid="{0bd7b88c-a073-4c32-af7d-5232d00d3868}" relid="0x16c">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>Ew</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-00000023"/>
+				<connpoint role="src" target="id-0066-0000006a"/>
+			</connection>
+			<connection id="id-0068-000000f6" kind="HasAttribute" role="HasAttribute" guid="{0de3534b-8869-4020-b2b9-4d2a80a508fa}" relid="0x16f">
+				<name>HasAttribute</name>
+				<connpoint role="dst" target="id-0066-00000025"/>
+				<connpoint role="src" target="id-0066-0000006f"/>
+			</connection>
+			<connection id="id-0068-000000f8" kind="HasAttribute" role="HasAttribute" guid="{0097401a-a5d2-4aeb-aaf9-116691173cf8}" relid="0x171">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>Ew</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-00000023"/>
+				<connpoint role="src" target="id-0066-00000071"/>
+			</connection>
+			<connection id="id-0068-000000f9" kind="HasAttribute" role="HasAttribute" guid="{b178ddb2-0e3d-4a24-b0ce-3aa163290259}" relid="0x173">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>e</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-00000026"/>
+				<connpoint role="src" target="id-0066-00000072"/>
+			</connection>
+			<connection id="id-0068-000000fa" kind="HasAttribute" role="HasAttribute" guid="{c30b4a30-fc26-466d-a130-d06c40c1616b}" relid="0x175">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>e</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-00000026"/>
+				<connpoint role="src" target="id-0066-00000074"/>
+			</connection>
+			<connection id="id-0068-000000fb" kind="HasAttribute" role="HasAttribute" guid="{582956b7-74b4-4bc7-9444-9e0a63ce7f81}" relid="0x177">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>w</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-00000039"/>
+				<connpoint role="src" target="id-0066-00000075"/>
+			</connection>
+			<connection id="id-0068-000000fc" kind="HasAttribute" role="HasAttribute" guid="{e66f4e09-bb29-49e1-a1ce-4347aecce825}" relid="0x17c">
+				<name>HasAttribute</name>
+				<connpoint role="dst" target="id-0066-00000037"/>
+				<connpoint role="src" target="id-0066-00000076"/>
+			</connection>
+			<connection id="id-0068-000000fd" kind="HasAttribute" role="HasAttribute" guid="{c67ec857-1e55-4b0a-864d-05ea423dcd74}" relid="0x17d">
+				<name>HasAttribute</name>
+				<connpoint role="dst" target="id-0066-00000037"/>
+				<connpoint role="src" target="id-0066-00000077"/>
+			</connection>
+			<connection id="id-0068-000000fe" kind="HasAttribute" role="HasAttribute" guid="{27b1cd2f-c730-4a57-90f0-0145db0a65d5}" relid="0x17e">
+				<name>HasAttribute</name>
+				<connpoint role="dst" target="id-0066-0000002b"/>
+				<connpoint role="src" target="id-0066-00000077"/>
+			</connection>
+			<connection id="id-0068-000000ff" kind="HasAttribute" role="HasAttribute" guid="{b57768bb-b877-4e46-b922-c62a686f45bc}" relid="0x17f">
+				<name>HasAttribute</name>
+				<connpoint role="dst" target="id-0066-00000037"/>
+				<connpoint role="src" target="id-0066-00000079"/>
+			</connection>
+			<connection id="id-0068-00000100" kind="HasAttribute" role="HasAttribute" guid="{0c4dd1d8-5168-4804-8601-acb0fb1abc00}" relid="0x180">
+				<name>HasAttribute</name>
+				<connpoint role="dst" target="id-0066-0000002b"/>
+				<connpoint role="src" target="id-0066-00000078"/>
+			</connection>
+			<connection id="id-0068-00000101" kind="HasAttribute" role="HasAttribute" guid="{934457b4-a3dc-407a-90ce-c47eb86ee8f6}" relid="0x182">
+				<name>HasAttribute</name>
+				<connpoint role="dst" target="id-0066-00000046"/>
+				<connpoint role="src" target="id-0066-0000007a"/>
+			</connection>
+			<connection id="id-0068-00000102" kind="HasAttribute" role="HasAttribute" guid="{03e78719-c38a-48b1-b6f9-773cb99349e0}" relid="0x183">
+				<name>HasAttribute</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>s</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-00000043"/>
+				<connpoint role="src" target="id-0066-0000007a"/>
+			</connection>
+			<connection id="id-0068-00000103" kind="HasAttribute" role="HasAttribute" guid="{c34320f8-a729-42f8-bda6-2f6f3403f33b}" relid="0x184">
+				<name>HasAttribute</name>
+				<connpoint role="dst" target="id-0066-00000051"/>
+				<connpoint role="src" target="id-0066-0000007a"/>
+			</connection>
+			<connection id="id-0068-00000104" kind="HasAttribute" role="HasAttribute" guid="{83dd3816-054a-4c3d-b2f1-a6c8fb8166d1}" relid="0x186">
+				<name>HasAttribute</name>
+				<connpoint role="dst" target="id-0066-00000043"/>
+				<connpoint role="src" target="id-0066-0000007b"/>
 			</connection>
 			<set id="id-0069-00000003" kind="Aspect" role="Aspect" guid="{95350200-0500-463b-884b-f64d8f753989}" relid="0x22" members="id-0066-00000002 id-0066-00000008 id-0066-0000000b id-0066-00000010 id-0066-00000011 id-0066-00000012 id-0066-00000013 id-0066-00000014 id-0066-00000015 id-0066-0000001a id-0066-0000001c id-0066-0000001e id-0066-00000028 id-0066-0000002b id-0066-0000002f id-0066-00000037 id-0066-00000039 id-0066-0000003b id-0066-0000003e id-0066-0000003f id-0066-00000042 id-0066-00000043 id-0066-00000046 id-0066-0000004f id-0066-00000051 id-0066-00000054 id-0066-00000057 id-0066-00000059 id-0066-0000005b id-0066-0000005c id-0066-00000061">
 				<name>Default</name>
