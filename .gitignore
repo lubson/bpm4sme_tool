@@ -1,1 +1,4 @@
-bpm4sme.mga
+*.mga
+*.mta
+*.log
+*.xmp
