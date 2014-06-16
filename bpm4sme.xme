@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE project SYSTEM "mga.dtd">
 
-<project guid="{1A72C7A5-9D15-41A9-9A92-DFE836DE608D}" cdate="Thu May 22 19:52:30 2014" mdate="Thu May 22 19:52:30 2014" version="0.9" metaguid="{C84D2738-4519-44F2-B4C1-114F73567576}" metaversion="" metaname="MetaGME">
+<project guid="{D525B547-1222-44C6-9C36-AC27A115671F}" cdate="Thu May 22 19:52:30 2014" mdate="Thu May 22 19:52:30 2014" version="0.9" metaguid="{C84D2738-4519-44F2-B4C1-114F73567576}" metaversion="" metaname="MetaGME">
 	<name>BPM4SME</name>
 	<comment></comment>
 	<author>Lubomir Hruban</author>
@@ -2170,7 +2170,7 @@
 				</regnode>
 			</regnode>
 		</regnode>
-		<model id="id-0065-00000001" kind="ParadigmSheet" guid="{ed948fd8-1ff9-4443-a4bb-c64a8422ec81}" relid="0x1" childrelidcntr="0x194">
+		<model id="id-0065-00000001" kind="ParadigmSheet" guid="{ed948fd8-1ff9-4443-a4bb-c64a8422ec81}" relid="0x1" childrelidcntr="0x19e">
 			<name>ParadigmSheet</name>
 			<atom id="id-0066-00000002" kind="Model" role="Model" guid="{15e83d07-8793-4d4d-a10e-aec9f8076c0a}" relid="0x2">
 				<name>Folder</name>
@@ -2200,7 +2200,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>357,14</value>
+							<value>168,1514</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -2323,7 +2323,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>203,175</value>
+							<value>35,1514</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -2375,8 +2375,8 @@
 				<attribute kind="IsNameEnabled" status="meta">
 					<value>true</value>
 				</attribute>
-				<attribute kind="IsResizable" status="meta">
-					<value>false</value>
+				<attribute kind="IsResizable">
+					<value>true</value>
 				</attribute>
 				<attribute kind="IsRoundRectangleEnabled" status="meta">
 					<value>false</value>
@@ -2455,13 +2455,13 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>280,112</value>
+							<value>287,77</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>35,210</value>
+							<value>73,98</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -2471,7 +2471,7 @@
 						</regnode>
 					</regnode>
 				</regnode>
-				<attribute kind="AutoRouterPref" status="meta">
+				<attribute kind="AutoRouterPref">
 					<value></value>
 				</attribute>
 				<attribute kind="Decorator" status="meta">
@@ -2575,7 +2575,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>350,91</value>
+							<value>35,1430</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -2656,7 +2656,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>525,119</value>
+							<value>448,21</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -2788,7 +2788,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>266,315</value>
+							<value>350,1430</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -2902,7 +2902,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>56,301</value>
+							<value>241,98</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -3019,7 +3019,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>406,308</value>
+							<value>182,1346</value>
 						</regnode>
 						<regnode name="preferredSize" isopaque="yes">
 							<value>128,59</value>
@@ -3142,7 +3142,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>546,245</value>
+							<value>350,1346</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -3328,7 +3328,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>168,462</value>
+							<value>196,1430</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -3433,7 +3433,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>70,77</value>
+							<value>35,1346</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -3506,6 +3506,12 @@
 						</regnode>
 						<regnode name="preferredSize" isopaque="yes">
 							<value>86,58</value>
+						</regnode>
+					</regnode>
+					<regnode name="Constraints" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>224,1024</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -3625,7 +3631,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>273,532</value>
+							<value>2039,207</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -3739,7 +3745,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>168,735</value>
+							<value>2114,392</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -3775,7 +3781,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>84,770</value>
+							<value>2048,465</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -3892,7 +3898,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>119,644</value>
+							<value>2030,577</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -4036,7 +4042,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>273,700</value>
+							<value>35,1024</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -4117,7 +4123,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>98,868</value>
+							<value>2288,401</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -4231,7 +4237,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>679,798</value>
+							<value>231,898</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -4345,7 +4351,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>168,938</value>
+							<value>2114,133</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -4381,7 +4387,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>28,980</value>
+							<value>1875,248</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -4495,7 +4501,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>203,770</value>
+							<value>2057,21</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -4609,7 +4615,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>168,1043</value>
+							<value>1785,423</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -4723,7 +4729,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>21,1078</value>
+							<value>1638,532</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -4837,7 +4843,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>91,1050</value>
+							<value>1841,357</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -4873,7 +4879,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>322,1085</value>
+							<value>2465,363</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -4987,7 +4993,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>266,889</value>
+							<value>2302,207</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -5101,7 +5107,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>252,959</value>
+							<value>2331,336</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -5140,7 +5146,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>511,630</value>
+							<value>252,1234</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -5284,7 +5290,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>623,539</value>
+							<value>35,1234</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -5365,7 +5371,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>581,1134</value>
+							<value>734,294</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -5479,7 +5485,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>406,1232</value>
+							<value>196,1108</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -5641,7 +5647,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>273,1232</value>
+							<value>35,1108</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -5722,7 +5728,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>581,1281</value>
+							<value>350,1024</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -5827,7 +5833,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>588,896</value>
+							<value>413,814</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -5908,7 +5914,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>966,182</value>
+							<value>1372,98</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -6028,7 +6034,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>945,266</value>
+							<value>1001,147</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -6142,7 +6148,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>973,371</value>
+							<value>1190,189</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -6256,7 +6262,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>742,252</value>
+							<value>182,814</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -6370,7 +6376,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>938,511</value>
+							<value>399,898</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -6475,7 +6481,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>672,392</value>
+							<value>1102,21</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -6589,7 +6595,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>973,336</value>
+							<value>1190,126</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -6649,7 +6655,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>763,322</value>
+							<value>35,814</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -6754,7 +6760,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>812,7</value>
+							<value>35,898</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -6892,7 +6898,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>693,70</value>
+							<value>308,730</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -6991,13 +6997,13 @@
 					<regnode name="ClassDiagram" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>819,231</value>
+							<value>833,231</value>
 						</regnode>
 					</regnode>
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>833,133</value>
+							<value>168,730</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -7111,7 +7117,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>889,1029</value>
+							<value>708,21</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -7225,7 +7231,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>910,1134</value>
+							<value>777,126</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -7261,7 +7267,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>812,1169</value>
+							<value>826,189</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -7375,7 +7381,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>693,1162</value>
+							<value>651,189</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -7492,7 +7498,7 @@
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>791,1365</value>
+							<value>35,730</value>
 						</regnode>
 					</regnode>
 					<regnode name="Visualization" status="undefined">
@@ -8649,87 +8655,6 @@ PI, 2</value>
 					<value></value>
 				</attribute>
 			</atom>
-			<atom id="id-0066-00000081" kind="Constraint" role="Constraint" guid="{d8af8e5b-093d-4251-8a0e-6dafadfbdd9e}" relid="0x18f">
-				<name>NumberOfVision</name>
-				<regnode name="PartRegs" status="undefined">
-					<value></value>
-					<regnode name="All" status="undefined">
-						<value></value>
-						<regnode name="Position" isopaque="yes">
-							<value>406,203</value>
-						</regnode>
-					</regnode>
-					<regnode name="Constraints" status="undefined">
-						<value></value>
-						<regnode name="Position" isopaque="yes">
-							<value>455,196</value>
-						</regnode>
-					</regnode>
-				</regnode>
-				<attribute kind="AddSetEvent" status="meta">
-					<value>false</value>
-				</attribute>
-				<attribute kind="ChangeAttributeEvent" status="meta">
-					<value>false</value>
-				</attribute>
-				<attribute kind="ChangePropertyEvent" status="meta">
-					<value>false</value>
-				</attribute>
-				<attribute kind="ChangeRelationEvent" status="meta">
-					<value>false</value>
-				</attribute>
-				<attribute kind="CloseEvent" status="meta">
-					<value>false</value>
-				</attribute>
-				<attribute kind="ConnectEvent" status="meta">
-					<value>false</value>
-				</attribute>
-				<attribute kind="ConstraintDescription">
-					<value>Business Strategy can contain only 1 Vision.</value>
-				</attribute>
-				<attribute kind="ConstraintEqn">
-					<value>self.allAspects() -&gt; size &lt; 2</value>
-				</attribute>
-				<attribute kind="ConstraintParam" status="meta">
-					<value></value>
-				</attribute>
-				<attribute kind="ConstraintPriority">
-					<value>2</value>
-				</attribute>
-				<attribute kind="CreateEvent" status="meta">
-					<value>false</value>
-				</attribute>
-				<attribute kind="DeleteEvent" status="meta">
-					<value>false</value>
-				</attribute>
-				<attribute kind="Depth" status="meta">
-					<value>1</value>
-				</attribute>
-				<attribute kind="DeriveEvent" status="meta">
-					<value>false</value>
-				</attribute>
-				<attribute kind="DisconnectEvent" status="meta">
-					<value>false</value>
-				</attribute>
-				<attribute kind="LostChildEvent" status="meta">
-					<value>false</value>
-				</attribute>
-				<attribute kind="MoveEvent" status="meta">
-					<value>false</value>
-				</attribute>
-				<attribute kind="NewChildEvent">
-					<value>false</value>
-				</attribute>
-				<attribute kind="ReferenceEvent" status="meta">
-					<value>false</value>
-				</attribute>
-				<attribute kind="RemoveSetEvent" status="meta">
-					<value>false</value>
-				</attribute>
-				<attribute kind="UnReferenceEvent" status="meta">
-					<value>false</value>
-				</attribute>
-			</atom>
 			<atom id="id-0066-00000082" kind="Constraint" role="Constraint" guid="{e7c1550d-9a2a-4536-a1a7-5ec1d69b55a3}" relid="0x191">
 				<name>VisionHasToHaveContent</name>
 				<regnode name="PartRegs" status="undefined">
@@ -8743,7 +8668,7 @@ PI, 2</value>
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>714,182</value>
+							<value>497,126</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -8769,8 +8694,8 @@ PI, 2</value>
 					<value>Vision has to have content.</value>
 				</attribute>
 				<attribute kind="ConstraintEqn">
-					<value>let VisibleContent = self.VisibleContent.trim() in
-VisibleContent &lt;&gt; &quot;&quot; implies VisibleContent.match( &quot;^[_a-zA-Z][_a-zA-Z0-9]*$&quot; )</value>
+					<value>-- self.VisibleContent.trim() = &quot;&quot; implies self.equivalenceEnds().notEmpty()
+self.VisibleContent.trim() &lt;&gt; &quot;&quot;</value>
 				</attribute>
 				<attribute kind="ConstraintParam" status="meta">
 					<value></value>
@@ -8825,7 +8750,7 @@ VisibleContent &lt;&gt; &quot;&quot; implies VisibleContent.match( &quot;^[_a-zA
 					<regnode name="Constraints" status="undefined">
 						<value></value>
 						<regnode name="Position" isopaque="yes">
-							<value>189,245</value>
+							<value>343,21</value>
 						</regnode>
 					</regnode>
 				</regnode>
@@ -8868,6 +8793,330 @@ self.name.trim() &lt;&gt; &quot;&quot;</value>
 				</attribute>
 				<attribute kind="Depth">
 					<value>0</value>
+				</attribute>
+				<attribute kind="DeriveEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="DisconnectEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="LostChildEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="MoveEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="NewChildEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ReferenceEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="RemoveSetEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="UnReferenceEvent" status="meta">
+					<value>false</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000084" kind="Constraint" role="Constraint" guid="{7f0e1dce-0883-4280-bb8c-22a03588e358}" relid="0x195">
+				<name>GoalCannotReferToItself</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>273,168</value>
+						</regnode>
+					</regnode>
+					<regnode name="Constraints" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>7,7</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="AddSetEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ChangeAttributeEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ChangePropertyEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ChangeRelationEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="CloseEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ConnectEvent">
+					<value>true</value>
+				</attribute>
+				<attribute kind="ConstraintDescription">
+					<value>Check whether goal is not responsible for itself to prevent recursion.</value>
+				</attribute>
+				<attribute kind="ConstraintEqn">
+					<value>not self.isConnectedTo(self)</value>
+				</attribute>
+				<attribute kind="ConstraintParam" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="ConstraintPriority">
+					<value>1</value>
+				</attribute>
+				<attribute kind="CreateEvent">
+					<value>false</value>
+				</attribute>
+				<attribute kind="DeleteEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="Depth" status="meta">
+					<value>1</value>
+				</attribute>
+				<attribute kind="DeriveEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="DisconnectEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="LostChildEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="MoveEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="NewChildEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ReferenceEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="RemoveSetEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="UnReferenceEvent" status="meta">
+					<value>false</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000085" kind="Constraint" role="Constraint" guid="{ed9e731c-e67c-4188-addc-1d91d5dd445a}" relid="0x199">
+				<name>Constraint</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1078,56</value>
+						</regnode>
+					</regnode>
+					<regnode name="Constraints" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1453,21</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="AddSetEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ChangeAttributeEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ChangePropertyEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ChangeRelationEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="CloseEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ConnectEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ConstraintDescription">
+					<value>Component cannot refer to iself.</value>
+				</attribute>
+				<attribute kind="ConstraintEqn">
+					<value>not self.isConnectedTo(self)</value>
+				</attribute>
+				<attribute kind="ConstraintParam" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="ConstraintPriority" status="meta">
+					<value>2</value>
+				</attribute>
+				<attribute kind="CreateEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="DeleteEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="Depth" status="meta">
+					<value>1</value>
+				</attribute>
+				<attribute kind="DeriveEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="DisconnectEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="LostChildEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="MoveEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="NewChildEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ReferenceEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="RemoveSetEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="UnReferenceEvent" status="meta">
+					<value>false</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000086" kind="Constraint" role="Constraint" guid="{22c4ed5e-cd1d-499e-94f8-2ec402ef23f9}" relid="0x19b">
+				<name>NoIncomingSequenceFlow</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>154,1211</value>
+						</regnode>
+					</regnode>
+					<regnode name="Constraints" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1785,490</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="AddSetEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ChangeAttributeEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ChangePropertyEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ChangeRelationEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="CloseEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ConnectEvent">
+					<value>true</value>
+				</attribute>
+				<attribute kind="ConstraintDescription">
+					<value>No incoming sequence flow to Star Event.</value>
+				</attribute>
+				<attribute kind="ConstraintEqn">
+					<value>self.attachingConnections(&quot;dst&quot;, FlowObjectToFlowObject)  -&gt; size = 0</value>
+				</attribute>
+				<attribute kind="ConstraintParam" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="ConstraintPriority" status="meta">
+					<value>2</value>
+				</attribute>
+				<attribute kind="CreateEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="DeleteEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="Depth" status="meta">
+					<value>1</value>
+				</attribute>
+				<attribute kind="DeriveEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="DisconnectEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="LostChildEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="MoveEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="NewChildEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ReferenceEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="RemoveSetEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="UnReferenceEvent" status="meta">
+					<value>false</value>
+				</attribute>
+			</atom>
+			<atom id="id-0066-00000087" kind="Constraint" role="Constraint" guid="{b317b3b6-5520-4564-9103-16a5f7d3e4cb}" relid="0x19d">
+				<name>NoOutcomingSequenceFlow</name>
+				<regnode name="PartRegs" status="undefined">
+					<value></value>
+					<regnode name="All" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>21,1183</value>
+						</regnode>
+					</regnode>
+					<regnode name="Constraints" status="undefined">
+						<value></value>
+						<regnode name="Position" isopaque="yes">
+							<value>1684,646</value>
+						</regnode>
+					</regnode>
+				</regnode>
+				<attribute kind="AddSetEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ChangeAttributeEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ChangePropertyEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ChangeRelationEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="CloseEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="ConnectEvent">
+					<value>true</value>
+				</attribute>
+				<attribute kind="ConstraintDescription">
+					<value>No outcoming sequence flow from End Event.</value>
+				</attribute>
+				<attribute kind="ConstraintEqn">
+					<value>self.attachingConnections(&quot;src&quot;, FlowObjectToFlowObject)  -&gt; size = 0</value>
+				</attribute>
+				<attribute kind="ConstraintParam" status="meta">
+					<value></value>
+				</attribute>
+				<attribute kind="ConstraintPriority" status="meta">
+					<value>2</value>
+				</attribute>
+				<attribute kind="CreateEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="DeleteEvent" status="meta">
+					<value>false</value>
+				</attribute>
+				<attribute kind="Depth" status="meta">
+					<value>1</value>
 				</attribute>
 				<attribute kind="DeriveEvent" status="meta">
 					<value>false</value>
@@ -9132,7 +9381,7 @@ self.name.trim() &lt;&gt; &quot;&quot;</value>
 					<value>e</value>
 				</regnode>
 				<regnode name="customConnectionData" isopaque="yes">
-					<value>0,0,0,1,1,0,372,0,0,0</value>
+					<value>0,0,0,1,1,0,372,0,0,0;0,0,0,1,2,1,354,186,0,0</value>
 				</regnode>
 				<attribute kind="Cardinality">
 					<value>0..1</value>
@@ -9148,6 +9397,9 @@ self.name.trim() &lt;&gt; &quot;&quot;</value>
 				<regnode name="autorouterPref" isopaque="yes">
 					<value>sW</value>
 				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,0,1,2,1,295,160,0,0</value>
+				</regnode>
 				<attribute kind="Cardinality" status="meta">
 					<value>0..*</value>
 				</attribute>
@@ -9161,6 +9413,9 @@ self.name.trim() &lt;&gt; &quot;&quot;</value>
 				<name>AssociationClass</name>
 				<regnode name="autorouterPref" isopaque="yes">
 					<value>s</value>
+				</regnode>
+				<regnode name="customConnectionData" isopaque="yes">
+					<value>0,0,0,1,1,0,318,0,0,0</value>
 				</regnode>
 				<connpoint role="dst" target="id-0066-0000001b"/>
 				<connpoint role="src" target="id-0066-0000001c"/>
@@ -10366,14 +10621,6 @@ self.name.trim() &lt;&gt; &quot;&quot;</value>
 				<connpoint role="dst" target="id-0066-00000057"/>
 				<connpoint role="src" target="id-0066-00000080"/>
 			</connection>
-			<connection id="id-0068-00000109" kind="HasConstraint" role="HasConstraint" guid="{1dcdaf13-9e9b-463f-905a-a92ee987fb3c}" relid="0x190">
-				<name>HasConstraint</name>
-				<regnode name="autorouterPref" isopaque="yes">
-					<value>En</value>
-				</regnode>
-				<connpoint role="dst" target="id-0066-00000015"/>
-				<connpoint role="src" target="id-0066-00000081"/>
-			</connection>
 			<connection id="id-0068-0000010a" kind="HasConstraint" role="HasConstraint" guid="{407f0327-be35-42bb-bd0b-533ee9a8e759}" relid="0x192">
 				<name>HasConstraint</name>
 				<regnode name="autorouterPref" isopaque="yes">
@@ -10389,6 +10636,38 @@ self.name.trim() &lt;&gt; &quot;&quot;</value>
 				</regnode>
 				<connpoint role="dst" target="id-0066-00000013"/>
 				<connpoint role="src" target="id-0066-00000083"/>
+			</connection>
+			<connection id="id-0068-0000010e" kind="HasConstraint" role="HasConstraint" guid="{2f944c8f-839b-4017-9e34-22a91d288bfe}" relid="0x198">
+				<name>HasConstraint</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>Ew</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-0000000b"/>
+				<connpoint role="src" target="id-0066-00000084"/>
+			</connection>
+			<connection id="id-0068-0000010f" kind="HasConstraint" role="HasConstraint" guid="{9029eb1f-8ba3-43c3-99a4-12637522b7fa}" relid="0x19a">
+				<name>HasConstraint</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>S</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-00000043"/>
+				<connpoint role="src" target="id-0066-00000085"/>
+			</connection>
+			<connection id="id-0068-00000110" kind="HasConstraint" role="HasConstraint" guid="{cfc1a686-ce55-4707-b980-94a34ae1ed0b}" relid="0x19c">
+				<name>HasConstraint</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>N</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-00000031"/>
+				<connpoint role="src" target="id-0066-00000086"/>
+			</connection>
+			<connection id="id-0068-00000111" kind="HasConstraint" role="HasConstraint" guid="{b78ad764-7ab4-424a-babe-fe73fd89530f}" relid="0x19e">
+				<name>HasConstraint</name>
+				<regnode name="autorouterPref" isopaque="yes">
+					<value>N</value>
+				</regnode>
+				<connpoint role="dst" target="id-0066-00000032"/>
+				<connpoint role="src" target="id-0066-00000087"/>
 			</connection>
 			<set id="id-0069-00000003" kind="Aspect" role="Aspect" guid="{95350200-0500-463b-884b-f64d8f753989}" relid="0x22" members="id-0066-00000002 id-0066-00000008 id-0066-0000000b id-0066-00000010 id-0066-00000011 id-0066-00000012 id-0066-00000013 id-0066-00000014 id-0066-00000015 id-0066-0000001a id-0066-0000001c id-0066-0000001e id-0066-00000028 id-0066-0000002b id-0066-0000002f id-0066-00000037 id-0066-00000039 id-0066-0000003b id-0066-0000003e id-0066-0000003f id-0066-00000042 id-0066-00000043 id-0066-00000046 id-0066-0000004f id-0066-00000051 id-0066-00000054 id-0066-00000057 id-0066-00000059 id-0066-0000005b id-0066-0000005c id-0066-00000061">
 				<name>Default</name>
