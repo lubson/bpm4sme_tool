@@ -19,3 +19,6 @@ BPM4SME Tool is a modelling tool which enables to create models that supplement 
 3. Now you have to register metamodel of bpm4sme to your GME. Click MetaGME Interpreter, save the paradigm file, stay with the defaul options and choose to register new paradigm.
 4. Open new project and select BPM4SME paradigm.
 
+### More Information
+BPM4SME Tool was developed as a part of the thesis, which is available at https://is.muni.cz/auth/th/324796/fi_m_a2/thesis.pdf
+
