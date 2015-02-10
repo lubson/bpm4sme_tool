@@ -20,5 +20,5 @@ BPM4SME Tool is a modelling tool which enables to create models that supplement 
 4. Open new project and select BPM4SME paradigm.
 
 ### More Information
-BPM4SME Tool was developed as a part of the thesis, which is available at https://is.muni.cz/auth/th/324796/fi_m_a2/thesis.pdf
+BPM4SME Tool was developed as a part of diploma thesis, which is available at https://is.muni.cz/auth/th/324796/fi_m_a2/thesis.pdf . The thesis covers motivation of the BPM adoption methodologies, proposes meta-model for BPM4SME methodology and the implementation of BPM4SME Tool.
 
